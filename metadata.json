@@ -1,0 +1,8 @@
+{
+  "name" : "Developer",
+  "description" : "Provides utilities for developers.",
+  "dependencies" : {
+    "system-packages" : [],
+    "packages" : []
+  }
+}
