@@ -1,0 +1,19 @@
+{
+  "name" : "Developer",
+  "package" : "developer",
+  "menu_entry" : {
+    "order" : 4,
+    "icon" : {
+      "class" : "fa",
+      "name" : "code-fork"
+    },
+    "responsive" : {
+      "priority" : 30
+    },
+    "exclude_roles" : []
+  },
+  "child_pages" : [],
+  "access_level" : [
+    "administrator"
+  ]
+}
